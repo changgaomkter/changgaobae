@@ -5,126 +5,104 @@ layout: about
 toc: true
 comments: true
 ---
+
+
 # Resume
-## Yuhang Chen
-yuhangchen0425@gmail.com | +86 18124265750 |+1 4387730826
+## Chang Gao
+Linkedin: www.linkedin.com/in/changgao12
 
 ----
 
-**language:** IELTS 6.5 | Cantonese | Mandarin
+## Highlights
 
-**Education:**
+> Energetic marketer with 3+ years’ experience in Canadian retail brand, e-Commerce, digital marketing.
 
-> 1. Chengdu University of Technology (CDUT) major in Space Science and Technology(Bachelor)
-> 2. Concordia University major in Electrical and Computer Engineering (Master)
+> Master Degree of Electrical and Computer Engineering, have a data-driven mind and marketing sense.
 
-**Technical Skills:** C#| Python | PostgreSQL | Matlab | Photoshop | Vue | JavaScript | Html | CSS
+> Proven math and analytical skills in PowerBI, GA4, SQL for ad performance analysis and tracking.
+
+> Proficient with paid ads platforms including Google Ads, Meta, TikTok and programmatic ads.
+
+> Great experience of working with internal creative team, product team, and external agencies.
+
+> Hands-on experience of managing social media accounts including IG, FB, TikTok, RED and WeChat.
+
+> Outstanding teamwork abilities, collaborated with cross-functional teams over 140 campaigns.
+
+> A polyglot, speaks Mandarin, English, and Korean. Beginner of Cantonese and French.
 
 ---
 
 ## Working EXPERIENCE
 
-### May 2022 - May 2023
+### June 2022 - At Present
 
-<div align='right'>`Software Development Engineer-Testing in Huawei` <img src="//www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" width="150" align='right'> </div>  
+<div align='right'>`Digital Marketing Specialist in Northern Reflections` </div>  
 
-**1.** Prepared automatic engineering test plans in Java and carried out more than 300 engineering testing assignments. Reported test results and provide recommendations for the project team.
+**1.** Primary driver of omni-channel strategy including 130+ retail locations across Canada and e-Commerce platform by accomplishing following tasks:
 
-**2.** Developed automated test cases for 20+ requirements to validate software features.
+   > Established 20+ campaigns through Google, Meta, TikTok Ads, kept a strong ROAS at 6-8X.
 
-**3.** Participated in 20+ full-scale product integration tests & had experience coding large projects.
+   > Improved paid campaigns with keywords expansion and audience optimization continually.
 
-**4.** Guaranteed 20+ new products launched successfully with solid programming skills (Java).
+   > Delivered detailed and actionable insights, updated ad creatives, copies for holidays & events.
 
-**5.** Collaborated with software engineers from multiple teams to locate bugs. Developed test architectures & methods for verifying the performance of the software.
+   > Executed local marketing plan, worked with mall marketers, set up paid ads for priority cities.
 
-**6.** Produced technical drawings, weekly reports, and other documentation for the product owners, developers, and QA management to identify requirements and anticipated risks.
+**2.** Initiated data reports and annually budget plan by weeks for the company including:
 
-### August 2020 – June 2021  
+> Created quarterly search trend reports for product and buying teams to monitor commodity trends using Semrush, Google Keywords Planner and other SEO tools, worked cross-functional.
 
-<div align='right'>`Software Development Engineer-Testing in Tencent` <img src="https://www.tencent.com/img/index/menu_logo_hover.png" width="150" align='right'> </div>  
+> Designed weekly digital marketing campaign performance report for Google, Meta and Tiktok Ads results with data support using GA4, PowerBI and Excel.
 
-**1.** Used python to write UI automatic test scripts on Enterprise WeChat ios, and maintained and monitored the execution of automated test cases
+> Analyzed ads performance (CTR, CVR, ROAS, cost, weekly changes) and ensured ongoing optimization, these helped us increase the conversions by 25% YOY.
 
-**2.** Wrote more than 1,000 UI automation test cases under the WDA framework to improve the test efficiency of the Enterprise WeChat ios version and help enterprises save about 15% of the test time, which reduce manpower input by about 4 people
+**3.** Built relationship across organization, managed stakeholders to keep them enrolled in marketing plans:
+
+> Designed the programmatic marketing plan, creatives, reports. Worked with external agencies, negotiated marketing strategies to maintain a meaningful ROAS at 5X.
+
+> Launched affiliate projects including Yahoo Canada, ELLE, Chatelaine, Cottage Life, Weather and Network, LinkHaitao and Rakuten.
+
+> Worked with designers & ensured the creatives aligned with brand tone. Tested creatives for better ads performance, have a data-driven mind.
+
+### June 2021 – June 2022  
+
+<div align='right'>` Senior Marketing Specialist in HungryPanda` </div>  
+
+**1.** Launched Google UAC and Search campaign to increase the APP install amount by 50% YOY.
+
+**2.** Established the KOL campaign, collaborated with 100+ influencers, got 100k+ impressions.
    
-**3.**	Wrote multiple low-level test functions to improve the use case efficiency of colleagues and helped reproduce and modify bugs
+**3.**	Tracked ads performance, made data-driven strategies and reduced the CPA from $11 to $7.
 
-**4.**	Wrote a front-end code to participate in the company's anniversary event, which was selected and displayed in the company's tweet during the company's anniversary
+**4.**	Planned social media calendar and managed the WeChat, Youtube, IG and RED accounts, posted daily creatives using Later, Canva and Lightroom.
 
+**5.**	Designed and participated in multiple offline events, increased registered customers by 400%.
+
+**6.**	Collaborated with local stores and University of Toronto Chinese Student Unions to promote the APP.
+
+---
+
+**language:** English | Mandarin | Korean | Cantonese | Beginner of French
+
+**Education:**
+
+> 1. Carleton University, Master of Electrical and Computer Engineeing
+> 2. Chengdu University Of Technology, Double Major in Computer Engineering & English Literature. Ranked 1st in the class.
+
+---
+
+**Technical Skills:** Google Ads| Meta Ads | TikTok Ads | SEO | GA4 | Paid Ads Pixel Install | Google Tag Manager | JavaScript | HTML | CSS | PowerBI | Tableau | STATA | MATLAB | SQL | MS Office Suite | Later | Canva | Lightroom | HubSpot | Semrush | Programmatic marketing | Affiliate Project | Influencer Marketing | Social Media Platfrom | Local Marketing
+
+
+**Soft Skills:** 
+
+> Work cross-functionally with internal creative, planning, product and buying teams. 
+
+> Organize & build the relationships with external agencies and Google, Meta, TikTok representatives.
+
+> Have the ability to explain the complex data reports into simple words for different teams.
 
 
 ---
 
-## PROJECT EXPERIENCE
-### September 2019 – January 2020
-<div align='right'> `Research on Key Technologies of Dynamic Detection of Land and Features Based on Remote Sensing Images` </div>  
-**1.** Participated in the design of a complete set of ground object condition monitoring programs, and achieved good monitoring results
-  
-**2.** Attempted to reproduce and compare traditional remote sensing methods (such as principal component transformation method, difference threshold method, wavelet transform method) and artificial intelligence algorithm (convolution operation) to extract the state changes of ground objects
-
-### May 2019 – April 2020  
-<div align='right'> `Thesis Paper: "The Influence of Housing Price Micro-factors Based on BP Neural Network Algorithm"`</div>
-
-**1.** Used Python language to write crawler programs to crawl more than 3,000 listings on Lianjia and Anjuke, converted addresses into coordinate data, and wrote algorithms to convert coordinate data into distances
-  
-**2.** Used matlab to write BP neural network algorithm to train house price data, and finally controlled the error of house price prediction value within 15% according to 15 microscopic factors of the house (the area of the house, the floor, the orientation, the green rate of the community, the number of various surrounding public facilities, etc.) 
-  
-**3.** Participated in the theoretical analysis and empirical analysis of BP neural network in the whole process, and can output the model during empirical analysis and gave a comprehensive and reasonable explanation to the results of the model output during the empirical analysis
-
-### April 2020 – July 2020  
-<div align='right'>`Database Course Experiment`</div>
-**1.** Created a WebGis system to display the geographical location of the monsters in Shanhaijing on a modern map, built a system database, and realized the function of inserting, deleting, updating and selecting information about monsters
-  
-**2.** Used C# language to write back-end code to realize data connection between front-end and back-end and database through AJAX
-  
-**3.** Wrote 3-page front-end code 
-
-###  June 2020 – July 2020  
-<div align='right'>`Integrated Internship in Spatial Data Processing`</div>
-
-**1.** Used Python language to write programs to achieve HSV, Brovey, HIS, PCA fusion of remote sensing images
-  
-**2.** Wrote a Python program to simulate the mixing of celestial noise, geomagnetic signals, etc. and used Kalman filter to denoise the signal
-
-**3.** Wrote a Python program to process electromagnetic signals collected by satellites and extracted the time zone and location of the satellite's magnetic reconnection across the magnetopause
-
-### March 2021 – May 2021  
-<div align='right'>`Improvements in Deep Learning Semantic Segmentation Algorithms`</div>
-
-**1.** Wrote an algorithm to automatically rasterize files in shp format into images in png format as training data for neural networks
-  
-**2.** Improved the structure of the unet network based on the pytorch framework using the Python language, and designed the ResUnet network so as to realize the intelligent extraction algorithm for the Chengdu water body with the extraction accuracy reaching 98.85%
-  
-**3.** Completed the writing of the paper "Algorithm Implementation of Intelligent Extraction of Urban Water in Chengdu Based on High-Definition Remote Sensing", and designed the resunet network structure with the extraction effect of water bodies better than unet, dlinknet, and deeplabv3+
-
----
-
-## EXTRACURRICULAR EXPERIENCE
-
-### April 2019 – September 2019 
-<div align='right'>`2019 ESRI GIS Application Development Group Competition`</div>  
-
-**1.** Built a postgresql database and performed data preprocessing, entry, and table division
-  
-**2.** Used C# to write the .Net website back-end framework to realize the data transmission function of the front-end and back-end of the website and the transmission of front-end and back-end data through AJAX on the front-end page
-  
-**3.** Solved the Cross-Origin problem of front-end and back-end data transmission
-
-**4.** Participated in the writing process of the entire webgis system and the whole process of data collection and data processing 
-
-**5.** Finished a relatively complete webgis system
-
----
-
-## PATENT
-
-**1.** Nie Peng, Cheng Xi, Mo You, Zhou Yuxuan, Chen Yuhang and Jiang Ao. Remote Sensing Extraction Method for High-resolution Urban Water Patches Combining Morphology and Index. Patent No.: CN113096114A  
-
----
-
-## HONORS
-
-**1.** College Students' Innovation and Entrepreneurship Projects - Provincial Award 
-
-**2.** Mi Pai Digital 3 Photography Competition - Third Prize
