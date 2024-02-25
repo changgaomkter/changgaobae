@@ -4,4 +4,4 @@ bottom:
       name: Customer Map
       icon: fas fa-heartbeat
       order:
-      html: <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=PDcczM-zC7jKMHlyqcqaSlO4Fxsuj9lg9MPWKuI_q04"></script>
+      html: <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=s_mcPUFgmqtwnbXJnnJjwxdc2SVCMfG3gnx713MCwMQ"></script>

@@ -161,7 +161,7 @@ wordcount:
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: 2
   length: 500 # if you set method to 2 or 3, the length need to config
 
 # anchor
@@ -175,7 +175,7 @@ anchor: true
 toc:
   post: true
   page: false
-  number: true
+  number: false
   expand: false
   style_simple: false # for post
 
@@ -256,7 +256,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus
-  use: Valine # Valine,Disqus
+  use: #Valine # Valine,Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -303,7 +303,7 @@ valine:
   bg: # valine background
   visitor: false
   option:
-  placeholder: 说点什么
+  placeholder: Say something
   path: window.location.pathname
   meta: ['nick', 'mail', 'link']
   pageSize: 10
