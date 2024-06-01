@@ -1,5 +1,5 @@
 ---
-title: Search Trend Report For Canada Clothing Brand
+title: Search Trend Report For Canadian Clothing Brand
 date: 2024-02-25 14:14:36
 tags: ['Search Trend','SEO','Data Analysis', 'Google Ads' , 'Paid Search Ads' , 'Canadian Clothing Brand', 'Retail Product Trend']
 categories: ['Project']
@@ -52,34 +52,15 @@ description: This report is created to highlight and assess the level of search 
 
 > Designers are afraid of data and reports, a good presentation should make the complex results easy to understand. I add the comparison and simple but important metrics for them. 
 
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page1.64dl4da0j3.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page2.5mnjfs8mzl.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page3.26l7noyzy1.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page4.6f0exip8r4.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page5.lvgo81sic.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page6.67x72333bs.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page7.pf2lxuv8f.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page8.es8ssfn38.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page9.361b0v1r54.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page10.9rj4rw5t4r.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page11.5q75di1ps2.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page12.92pv7via4m.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page13.1zhzs9cukp.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page14.3rayn5w7gt.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page15.2ruv9ztgb5.webp)
-
-![](https://github.com/changgaomkter/picx-images-hosting/raw/master/20240225/page16.4uany1s1cj.webp)
+![trend_1](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_1.lvj0yezt1.webp)
+![trend_2](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_2.5q77q8ex1w.webp)
+![trend_3](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_3.92pxklvheh.webp)
+![trend_4](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_4.60u1jdu541.webp)
+![trend_5](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_5.2dohvuycn6.webp)
+![trend_6](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_6.70a4wjwwb3.webp)
+![trend_7](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_7.2h83tkrfdg.webp)
+![trend_8](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_8.8hg9yb1126.webp)
+![trend_9](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_9.5tqtny7zqe.webp)
+![trend_10](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_10.99t5g1hmst.webp)
+![trend_11](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_11.41xut1omur.webp)
+![trend_12](https://cdn.jsdelivr.net/gh/changgaomkter/picx-images-hosting@master/20240424/trend_12.7p3egkkfcm.webp)

@@ -48,7 +48,7 @@ Now, it’s my time to make the magic happen! Digital ads setting is a black box
    
    1. I published 3 ads for our everyday hoodie & leather shacket & wide leg jeans.   
 
-   2. Ad performance: They helped us gain over 804k impressions, 24k clicks and 1,117 purchases.
+   2. Ad performance: They helped us gain over X k impressions, X k clicks and purchases.
    3. Interesting Insights: Our planners worried about about the leather jacket since we didn’t sell that much leather shacket last season. After publishing the digital ads, she was so excited and told me that ‘The shacket is selling well now! We never had that situation before!’ This positive feedback makes me want more product related ads.
 
 5. Next Step & Future Routine
