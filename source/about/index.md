@@ -35,7 +35,24 @@ Linkedin: www.linkedin.com/in/changgao12
 
 ## Working EXPERIENCE
 
-### June 2022 - At Present
+### June 2024 - At present
+
+<div align='right'>`Growth Marketing Specialist in Knix` </div>  
+
+**1.** Maintained daily optimization for paid social channels including Meta and TikTok Ads to meet business objectives including CTR, ROAS over 2-3X, CAC within and weekly targets. 
+
+**2.** Oversaw day-to-day management and execution of paid social campaigns & programs, including cross-functional reporting, pacing, A/B testing, and account hygiene checks.  
+
+**3.** Owned creative trafficking and communications between teams, working closely with Creative and Integrated Marketing teams to ensure messaging align with channel and audience strategies.
+
+**4.**	Conducted regular analyses and surface qualitative & quantitative insights to drive optimal performance and strategy recommendations using Amplitute, Rockerbox, Motion & NorthBeam.  
+
+**5.**	Uploaded BAU ads on paid channels, managed multiple projects in a fast-paced environment.  
+
+**6.**	Collaborated with vendor partners such as Meta, Pinterest, TikTok, and identify growth opportunities.  
+
+
+### June 2022 - June 2024
 
 <div align='right'>`Digital Marketing Specialist in Northern Reflections` </div>  
 
